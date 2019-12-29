@@ -9,4 +9,4 @@ Here is the Processing IDE download link: [Processing IDE Download](https://proc
 
 ## Credits
 
-To create it, i used the FractalTreeArray code from Coding Train, you can find more here: [FractalTreeArray](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_015_FractalTreeArray/Processing/CC_015_FractalTreeArray)
+To create it, I used the FractalTreeArray code from Coding Train, you can find more here: [FractalTreeArray](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_015_FractalTreeArray/Processing/CC_015_FractalTreeArray)
