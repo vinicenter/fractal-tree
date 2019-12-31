@@ -11,8 +11,8 @@ class Tree {
   
   void randomTree() {
     //input to make random trees
-    rb = random(26,60);
-    rt =  0.72;
+    rb = random(27,40);
+    rt = random(0.71,0.73);
     treeTimes = random(7,10);
     
     //random tree side

@@ -10,7 +10,7 @@ class Branch{
   
   void show(){
     stroke(t.btr, t.btg, t.btb);
-    strokeWeight(3);
+    strokeWeight(1.7);
     line(begin.x, begin.y, end.x, end.y);
   }
   

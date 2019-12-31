@@ -3,16 +3,22 @@ ArrayList<PVector> leaves = new ArrayList<PVector>();
 
 Game g;
 Tree t;
+Sky s;
+
+//Tree
+PGraphics gTree;
 
 void setup(){
   size(600,600);
   g = new Game();
   t = new Tree();
+  s = new Sky();
   t.reset();
 }
 
 void draw(){
-  background(38, 70, 90);
+  background(41, 79, 110);
+  s.show();
   g.show();
 }
 
